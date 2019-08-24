@@ -1,2 +1,0 @@
-# BeerApp
-Created with CodeSandbox
